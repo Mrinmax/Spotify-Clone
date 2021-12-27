@@ -8,8 +8,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Spotify 🔥</h1>
-      <p>Lets do this</p>
+      <div>
+        <nav>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" alt="spotify" />
+        </nav>
+      </div>
 
     </div>
   )
