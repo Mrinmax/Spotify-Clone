@@ -9,6 +9,7 @@ export default function Home() {
       </Head>
 
       <h1>Spotify 🔥</h1>
+      <p>Lets do this</p>
 
     </div>
   )
